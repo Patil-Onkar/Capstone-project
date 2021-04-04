@@ -2,6 +2,7 @@ channels:
 - conda-forge
 dependencies:
 - python=3.6.2
+- scikit-learn
 - pip:
   - azureml-defaults
   - tensorflow-gpu==2.2.0
